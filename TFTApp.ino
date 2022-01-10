@@ -48,7 +48,7 @@ void sendGroups();
 void dasBlinkenLights();
 
 const char list[]="word1 word2 "
-        "word3 ";
+        "word3 word4 ";
 
 // ***********Global tables to define the code binary **************************
 // In the lookup table, a zero means dit, one a dah.  Sending starts at low order
